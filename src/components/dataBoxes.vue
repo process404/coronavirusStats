@@ -27,6 +27,7 @@
           </div>
       </div>
   </div>
+  <!-- Recovered Stats does not work with this API for some reason. -->
   <!-- <div class="shadow-md bg-green-100 p-5 mb-5 text-center rounded">
     <h3 class="text-3xl text-left text-green-900 font-bold mb-4">Recovered</h3>
     <div class="text-2xl text-left mb-4">
