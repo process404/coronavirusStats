@@ -1,7 +1,7 @@
 <template>
   <main v-if="!loading" class="m-5">
     <dataTitle :text="title" :dataDate="dataDate" />
-    <dataBoxes :stats="stats"/>
+    <dataBoxes :stats="stats" :country="countryFiltered"/>
     <countrySelect :countries="countries" @clear-country="clearCountryData" @get-country="getCountryData"/>
   </main>
   <main v-else class="m-10 flex align-center justify-center text-center h-screen">
@@ -29,6 +29,7 @@ import countrySelect from '@/components/countrySelect.vue'
       stats: {},
       statsBackup: {},
       countries: [],
+      countryFiltered: null,
     }
   },
   methods:{
@@ -39,9 +40,11 @@ import countrySelect from '@/components/countrySelect.vue'
     },
     getCountryData(country){
       this.stats = country
+      this.countryFiltered = country.Country
     },
     clearCountryData(){
       this.stats = this.statsBackup
+      this.countryFiltered = null
     }
   },
   async created(){

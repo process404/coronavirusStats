@@ -5,7 +5,7 @@
         and 
         <a href="https://tailwindcss.com/" class="text-tailwind-col cursor-pointer hover:text-tailwind-col-hglt">Tailwind</a>
         . Using a tutorial from 
-        <a href="https://www.youtube.com/watch?v=m-MAIpnH9ag" class="text-red-800 hover:text-red-600">Youtube</a>
+        <a href="https://www.youtube.com/watch?v=m-MAIpnH9ag" class="text-red-800 hover:text-red-400">Youtube</a>
         
         </h2>
       </div>

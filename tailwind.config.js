@@ -6,8 +6,9 @@ module.exports = {
       colors:{
         'gray-rgb': '#0f0f0f',
         'gray-footer': '#0f0f0f',
+        'gray-button': '#171717',
         'vue-color': '#287a51',
-        'vue-color-hglt': '#41a372',
+        'vue-color-hglt': '#68d49e',
         'tailwind-col': '#0d4952',
         'tailwind-col-hglt': '#22d3ee',
       },
