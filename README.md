@@ -2,7 +2,7 @@
 
 ## Tutorial Link
 
-Follow (this link)[https://www.youtube.com/watch?v=m-MAIpnH9ag] to the tutorial used to make this website!
+Follow [this link](https://www.youtube.com/watch?v=m-MAIpnH9ag] to the tutorial used to make this website!)
 
 ## Project Info
 
