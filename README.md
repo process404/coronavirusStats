@@ -2,11 +2,7 @@
 
 ## Tutorial Link
 
-Follow [this link](https://www.youtube.com/watch?v=m-MAIpnH9ag) to the tutorial used to make this website!
-
-## Project Info
-
-To see how the project works, check the video listed in the description which is the tutorial followed as guidance when this website was created
+Follow [this link](https://www.youtube.com/watch?v=m-MAIpnH9ag) to the video on how to make this site.
 
 ## Project setup
 ```
